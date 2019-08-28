@@ -12,13 +12,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Test_Class.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test_Class.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test_Class.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="43" lean-forward="true" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/readme.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -30,10 +35,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Test_Class.java" />
+        <option value="$PROJECT_DIR$/src/readme.txt" />
       </list>
     </option>
   </component>
@@ -150,6 +159,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1605" y="-116" width="1400" height="794" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -160,7 +170,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32916668" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -189,6 +199,9 @@
           <caret line="1" column="43" lean-forward="true" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
